@@ -1,5 +1,6 @@
-# Image_classification_H_or_H
-An web aplication to classificate Horses or Humans
+# Image_classification_Horse_Breeds
+A web aplication to classificate Horse Breeds
+Uma aplicação web para classificar Raças de Cavalos
 
 pONTOS DE MELHORIA DA APlicação:
 
